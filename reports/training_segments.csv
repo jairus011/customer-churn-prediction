@@ -1,0 +1,11 @@
+dimension,segment,customers,churn_rate
+Contract,Month-to-month,2326,0.4307824591573517
+Contract,One year,865,0.10751445086705202
+Contract,Two year,1034,0.025145067698259187
+Internet Service,DSL,1474,0.1865671641791045
+Internet Service,Fiber optic,1843,0.4232230059685296
+Internet Service,No,908,0.07268722466960352
+Payment Method,Bank transfer (automatic),926,0.16198704103671707
+Payment Method,Credit card (automatic),909,0.15071507150715072
+Payment Method,Electronic check,1410,0.45602836879432623
+Payment Method,Mailed check,980,0.19489795918367347

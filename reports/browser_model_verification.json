@@ -1,0 +1,5 @@
+{
+  "profiles": 100,
+  "max_absolute_error": 5.551115123125783e-17,
+  "tolerance": 1e-10
+}

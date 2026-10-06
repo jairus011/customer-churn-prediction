@@ -1,0 +1,63 @@
+{
+  "selected_model": "gradient_boosting",
+  "threshold": 0.31000000000000005,
+  "threshold_objective": "validation F1",
+  "validation": {
+    "average_precision": 0.6657707061124716,
+    "roc_auc": 0.8553953860859232,
+    "accuracy": 0.7821149751596878,
+    "precision": 0.5663366336633663,
+    "recall": 0.7647058823529411,
+    "f1": 0.6507394766780432,
+    "brier": 0.13204727729011947,
+    "confusion_matrix": [
+      [
+        816,
+        219
+      ],
+      [
+        88,
+        286
+      ]
+    ]
+  },
+  "test": {
+    "average_precision": 0.6697507594582888,
+    "roc_auc": 0.8521971634503605,
+    "accuracy": 0.7686302342086586,
+    "precision": 0.546875,
+    "recall": 0.7486631016042781,
+    "f1": 0.6320541760722348,
+    "brier": 0.1342479061899113,
+    "confusion_matrix": [
+      [
+        803,
+        232
+      ],
+      [
+        94,
+        280
+      ]
+    ]
+  },
+  "features": [
+    "Tenure Months",
+    "Monthly Charges",
+    "Total Charges",
+    "Partner",
+    "Dependents",
+    "Phone Service",
+    "Multiple Lines",
+    "Internet Service",
+    "Online Security",
+    "Online Backup",
+    "Device Protection",
+    "Tech Support",
+    "Streaming TV",
+    "Streaming Movies",
+    "Contract",
+    "Paperless Billing",
+    "Payment Method"
+  ],
+  "seed": 42
+}

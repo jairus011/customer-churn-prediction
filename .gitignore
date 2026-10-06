@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+*.egg-info/
+.env
+models/*.joblib
+data/raw/*.xlsx
+reports/split_manifest.csv
+reports/test_predictions.csv

@@ -1,0 +1,16 @@
+{
+  "rows": 7043,
+  "columns": 33,
+  "churned": 1869,
+  "churn_rate": 0.2653698707936959,
+  "numeric_missing": {
+    "Tenure Months": 0,
+    "Monthly Charges": 0,
+    "Total Charges": 11
+  },
+  "split_sizes": {
+    "train": 4225,
+    "validation": 1409,
+    "test": 1409
+  }
+}
